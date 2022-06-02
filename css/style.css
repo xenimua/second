@@ -8,5 +8,10 @@ html, body {
     height: 100%;
 }
 body {
-    background: tan;
+background: teal;
+}
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+    background: gold;
 }
